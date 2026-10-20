@@ -18,7 +18,7 @@ export const pricingPackages: PricingPackage[] = [
 		id: 'engagement',
 		name: 'Engagement',
 		price: '$800',
-		description: 'Celebrate the in-between — portraits before the big day.',
+		description: 'Celebrate the in-between - portraits before the big day.',
 		features: ['3–4 hours of coverage', '170–200 edited photos', '2-week delivery']
 	},
 	{

@@ -52,7 +52,7 @@ function folderName(name) {
 
 function altFromFilename(filename, context) {
 	const base = filename.replace(/\.[^.]+$/, '').replace(/\s+copy(\s+\d+)?/gi, '');
-	return `${context} — ${base}`;
+	return `${context} - ${base}`;
 }
 
 /** e.g. "3-First dance" → "First dance"; "4" → undefined */
@@ -355,7 +355,7 @@ async function syncCouplesCategory(catDir, idIndex, category) {
 				sliderEntries,
 				path.join(IMAGES_DIR, 'portfolio', 'sliders', slugify(coupleDir.path)),
 				sizes.slider,
-				`${label} — slider`
+				`${label} - slider`
 			);
 		}
 

@@ -11,7 +11,7 @@ const config = {
 			fallback: undefined
 		}),
 		paths: {
-			// GitHub Pages project sites live at /repo-name/ — set BASE_PATH in CI.
+			// GitHub Pages project sites live at /repo-name/ - set BASE_PATH in CI.
 			// Leave unset (or empty) when serving from a custom domain at the root.
 			base: process.env.BASE_PATH ?? ''
 		}

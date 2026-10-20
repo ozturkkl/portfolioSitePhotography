@@ -26,7 +26,7 @@ export const site = {
 		instagramUrl: 'https://www.instagram.com/ilaydashoots/'
 	},
 	footer: {
-		note: "Hi there — thanks for stopping by. I'm so glad you're here, and I'd love to hear from you anytime."
+		note: "Hi there - thanks for stopping by. I'm so glad you're here, and I'd love to hear from you anytime."
 	}
 } as const;
 
@@ -38,5 +38,5 @@ export const navLinks = [
 ] as const;
 
 export function pageTitle(page: string): string {
-	return `${page} — ${site.name}`;
+	return `${page} - ${site.name}`;
 }

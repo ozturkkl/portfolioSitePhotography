@@ -121,7 +121,7 @@
 				message,
 				package: packageId,
 				botcheck: '',
-				subject: `New contact — ${name} (${packageId})`,
+				subject: `New contact - ${name} (${packageId})`,
 				from_name: 'Ilayda Turkmen Photography'
 			};
 
