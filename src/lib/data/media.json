@@ -1,5 +1,5 @@
 {
-	"syncedAt": "2026-11-05T14:14:38.878Z",
+	"syncedAt": "2026-11-06T13:56:49.396Z",
 	"hero": {
 		"src": "/images/hero.jpg",
 		"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/0-HOME/HERO.JPG",
@@ -356,6 +356,17 @@
 			},
 			{
 				"id": "g-64",
+				"src": "/images/portfolio/street-13-new-york-21-jpg.jpg",
+				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/13-New%20York%20'21.JPG",
+				"alt": "street - 13-New York '21",
+				"width": 1067,
+				"height": 1600,
+				"kind": "image",
+				"caption": "New York '21",
+				"category": "street"
+			},
+			{
+				"id": "g-65",
 				"src": "/images/portfolio/street-14-new-york-26-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/14-New%20York%20'26.JPG",
 				"alt": "street - 14-New York '26",
@@ -366,7 +377,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-65",
+				"id": "g-66",
 				"src": "/images/portfolio/street-15-new-york-26-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/15-New%20York%20'26.JPG",
 				"alt": "street - 15-New York '26",
@@ -377,7 +388,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-66",
+				"id": "g-67",
 				"src": "/images/portfolio/street-16-new-york-21-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/16-New%20York%20'21.JPG",
 				"alt": "street - 16-New York '21",
@@ -388,7 +399,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-67",
+				"id": "g-68",
 				"src": "/images/portfolio/street-17-new-york-21-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/17-New%20York%20'21.JPG",
 				"alt": "street - 17-New York '21",
@@ -399,7 +410,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-68",
+				"id": "g-69",
 				"src": "/images/portfolio/street-18-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/18-New%20York%20'25.JPG",
 				"alt": "street - 18-New York '25",
@@ -410,7 +421,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-69",
+				"id": "g-70",
 				"src": "/images/portfolio/street-19-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/19-New%20York%20'25.jpg",
 				"alt": "street - 19-New York '25",
@@ -421,7 +432,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-70",
+				"id": "g-71",
 				"src": "/images/portfolio/street-20-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/20-New%20York%20'25.JPG",
 				"alt": "street - 20-New York '25",
@@ -432,7 +443,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-71",
+				"id": "g-72",
 				"src": "/images/portfolio/street-21-new-york-21-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/21-New%20York%20'21.JPG",
 				"alt": "street - 21-New York '21",
@@ -443,7 +454,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-72",
+				"id": "g-73",
 				"src": "/images/portfolio/street-22-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/22-New%20York%20'25.JPG",
 				"alt": "street - 22-New York '25",
@@ -454,7 +465,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-73",
+				"id": "g-74",
 				"src": "/images/portfolio/street-23-new-york-26-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/23-New%20York%20'26.JPG",
 				"alt": "street - 23-New York '26",
@@ -465,7 +476,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-74",
+				"id": "g-75",
 				"src": "/images/portfolio/street-24-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/24-New%20York%20'25.JPG",
 				"alt": "street - 24-New York '25",
@@ -476,7 +487,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-75",
+				"id": "g-76",
 				"src": "/images/portfolio/street-25-new-york-26-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/25-New%20York%20'26.JPG",
 				"alt": "street - 25-New York '26",
@@ -487,7 +498,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-76",
+				"id": "g-77",
 				"src": "/images/portfolio/street-26-new-york-26-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/26-New%20York%20'26.JPG",
 				"alt": "street - 26-New York '26",
@@ -498,7 +509,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-77",
+				"id": "g-78",
 				"src": "/images/portfolio/street-27-new-york-20-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/27-New%20York%20'20.JPG",
 				"alt": "street - 27-New York '20",
@@ -509,7 +520,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-78",
+				"id": "g-79",
 				"src": "/images/portfolio/street-28-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/28-New%20York%20'25.JPG",
 				"alt": "street - 28-New York '25",
@@ -520,7 +531,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-79",
+				"id": "g-80",
 				"src": "/images/portfolio/street-29-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/29-New%20York%20'25.JPG",
 				"alt": "street - 29-New York '25",
@@ -531,7 +542,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-80",
+				"id": "g-81",
 				"src": "/images/portfolio/street-30-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/30-New%20York%20'25.JPG",
 				"alt": "street - 30-New York '25",
@@ -542,7 +553,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-81",
+				"id": "g-82",
 				"src": "/images/portfolio/street-31-new-york-23-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/31-New%20York%20'23.JPG",
 				"alt": "street - 31-New York '23",
@@ -553,7 +564,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-82",
+				"id": "g-83",
 				"src": "/images/portfolio/street-32-new-york-20-jpeg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/32-New%20York%20'20.JPEG",
 				"alt": "street - 32-New York '20",
@@ -564,7 +575,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-83",
+				"id": "g-84",
 				"src": "/images/portfolio/street-33-new-york-21-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/33-New%20York%20'21.JPG",
 				"alt": "street - 33-New York '21",
@@ -575,7 +586,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-84",
+				"id": "g-85",
 				"src": "/images/portfolio/street-34-new-york-23-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/34-New%20York%20'23.JPG",
 				"alt": "street - 34-New York '23",
@@ -586,7 +597,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-85",
+				"id": "g-86",
 				"src": "/images/portfolio/street-35-new-york-23-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/35-New%20York%20'23.JPG",
 				"alt": "street - 35-New York '23",
@@ -597,7 +608,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-86",
+				"id": "g-87",
 				"src": "/images/portfolio/street-36-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/36-New%20York%20'25.JPG",
 				"alt": "street - 36-New York '25",
@@ -608,7 +619,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-87",
+				"id": "g-88",
 				"src": "/images/portfolio/street-37-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/37-New%20York%20'25.JPG",
 				"alt": "street - 37-New York '25",
@@ -619,7 +630,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-88",
+				"id": "g-89",
 				"src": "/images/portfolio/street-38-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/38-New%20York%20'25.JPG",
 				"alt": "street - 38-New York '25",
@@ -630,7 +641,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-89",
+				"id": "g-90",
 				"src": "/images/portfolio/street-39-new-york-23-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/39-New%20York%20'23.jpg",
 				"alt": "street - 39-New York '23",
@@ -641,7 +652,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-90",
+				"id": "g-91",
 				"src": "/images/portfolio/street-40-new-york-23-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/40-New%20York%20'23.JPG",
 				"alt": "street - 40-New York '23",
@@ -652,7 +663,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-91",
+				"id": "g-92",
 				"src": "/images/portfolio/street-41-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/41-New%20York%20'25.JPG",
 				"alt": "street - 41-New York '25",
@@ -663,7 +674,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-92",
+				"id": "g-93",
 				"src": "/images/portfolio/street-42-new-york-22-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/42-New%20York%20'22.JPG",
 				"alt": "street - 42-New York '22",
@@ -674,7 +685,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-93",
+				"id": "g-94",
 				"src": "/images/portfolio/street-43-new-york-23-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/43-New%20York%20'23.JPG",
 				"alt": "street - 43-New York '23",
@@ -685,7 +696,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-94",
+				"id": "g-95",
 				"src": "/images/portfolio/street-44-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/44-New%20York%20'25.JPG",
 				"alt": "street - 44-New York '25",
@@ -696,7 +707,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-95",
+				"id": "g-96",
 				"src": "/images/portfolio/street-45-new-york-20-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/1-STREET/45-New%20York%20'20.jpg",
 				"alt": "street - 45-New York '20",
@@ -707,7 +718,7 @@
 				"category": "street"
 			},
 			{
-				"id": "g-96",
+				"id": "g-97",
 				"src": "/images/portfolio/life-1-hudson-ny-24-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/1-Hudson%2C%20NY%20'24.JPG",
 				"alt": "life - 1-Hudson, NY '24",
@@ -718,7 +729,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-97",
+				"id": "g-98",
 				"src": "/images/portfolio/life-2-hudson-ny-24-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/2-Hudson%2C%20NY%20'24.JPG",
 				"alt": "life - 2-Hudson, NY '24",
@@ -729,7 +740,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-98",
+				"id": "g-99",
 				"src": "/images/portfolio/life-3-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/3-New%20York%20'25.JPG",
 				"alt": "life - 3-New York '25",
@@ -740,7 +751,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-99",
+				"id": "g-100",
 				"src": "/images/portfolio/life-4-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/4-New%20Jersey%20'25.JPG",
 				"alt": "life - 4-New Jersey '25",
@@ -751,7 +762,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-100",
+				"id": "g-101",
 				"src": "/images/portfolio/life-5-pittsburgh-25-jpeg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/5-Pittsburgh%20'25.JPEG",
 				"alt": "life - 5-Pittsburgh '25",
@@ -762,7 +773,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-101",
+				"id": "g-102",
 				"src": "/images/portfolio/life-6-hudson-ny-24-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/6-Hudson%2C%20NY%20'24.JPG",
 				"alt": "life - 6-Hudson, NY '24",
@@ -773,7 +784,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-102",
+				"id": "g-103",
 				"src": "/images/portfolio/life-7-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/7-New%20Jersey%20'25.JPG",
 				"alt": "life - 7-New Jersey '25",
@@ -784,7 +795,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-103",
+				"id": "g-104",
 				"src": "/images/portfolio/life-8-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/8-New%20Jersey%20'25.JPG",
 				"alt": "life - 8-New Jersey '25",
@@ -795,7 +806,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-104",
+				"id": "g-105",
 				"src": "/images/portfolio/life-9-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/9-California%20'25.JPG",
 				"alt": "life - 9-California '25",
@@ -806,7 +817,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-105",
+				"id": "g-106",
 				"src": "/images/portfolio/life-10-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/10-%20California%20'25.JPG",
 				"alt": "life - 10- California '25",
@@ -817,7 +828,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-106",
+				"id": "g-107",
 				"src": "/images/portfolio/life-11-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/11-New%20York%20'25.jpg",
 				"alt": "life - 11-New York '25",
@@ -828,7 +839,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-107",
+				"id": "g-108",
 				"src": "/images/portfolio/life-12-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/12-New%20Jersey%20'25.JPG",
 				"alt": "life - 12-New Jersey '25",
@@ -839,7 +850,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-108",
+				"id": "g-109",
 				"src": "/images/portfolio/life-13-hudson-ny-24-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/13-Hudson%2C%20NY%20'24.JPG",
 				"alt": "life - 13-Hudson, NY '24",
@@ -850,7 +861,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-109",
+				"id": "g-110",
 				"src": "/images/portfolio/life-14-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/14-New%20Jersey%20'25.JPG",
 				"alt": "life - 14-New Jersey '25",
@@ -861,7 +872,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-110",
+				"id": "g-111",
 				"src": "/images/portfolio/life-15-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/15-New%20York%20'25.JPG",
 				"alt": "life - 15-New York '25",
@@ -872,7 +883,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-111",
+				"id": "g-112",
 				"src": "/images/portfolio/life-16-pittsburgh-25-jpeg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/16-Pittsburgh%20'25.JPEG",
 				"alt": "life - 16-Pittsburgh '25",
@@ -883,7 +894,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-112",
+				"id": "g-113",
 				"src": "/images/portfolio/life-17-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/17-New%20York%20'25.jpg",
 				"alt": "life - 17-New York '25",
@@ -894,7 +905,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-113",
+				"id": "g-114",
 				"src": "/images/portfolio/life-18-wisconsin-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/18-Wisconsin%20'25.JPG",
 				"alt": "life - 18-Wisconsin '25",
@@ -905,7 +916,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-114",
+				"id": "g-115",
 				"src": "/images/portfolio/life-19-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/19-New%20Jersey%20'25.JPG",
 				"alt": "life - 19-New Jersey '25",
@@ -916,7 +927,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-115",
+				"id": "g-116",
 				"src": "/images/portfolio/life-20-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/20-California%20'25.JPG",
 				"alt": "life - 20-California '25",
@@ -927,7 +938,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-116",
+				"id": "g-117",
 				"src": "/images/portfolio/life-21-hudson-ny-24-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/21-Hudson%2C%20NY%20'24.JPG",
 				"alt": "life - 21-Hudson, NY '24",
@@ -938,7 +949,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-117",
+				"id": "g-118",
 				"src": "/images/portfolio/life-22-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/22-New%20Jersey%20'25.JPG",
 				"alt": "life - 22-New Jersey '25",
@@ -949,7 +960,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-118",
+				"id": "g-119",
 				"src": "/images/portfolio/life-23-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/23-California%20'25.JPG",
 				"alt": "life - 23-California '25",
@@ -960,7 +971,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-119",
+				"id": "g-120",
 				"src": "/images/portfolio/life-24-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/24-New%20York%20'25.JPG",
 				"alt": "life - 24-New York '25",
@@ -971,7 +982,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-120",
+				"id": "g-121",
 				"src": "/images/portfolio/life-25-wisconsin-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/25-Wisconsin%20'25.JPG",
 				"alt": "life - 25-Wisconsin '25",
@@ -982,7 +993,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-121",
+				"id": "g-122",
 				"src": "/images/portfolio/life-26-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/26-New%20Jersey%20'25.JPG",
 				"alt": "life - 26-New Jersey '25",
@@ -993,7 +1004,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-122",
+				"id": "g-123",
 				"src": "/images/portfolio/life-27-hudson-ny-24-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/27-Hudson%2C%20NY%20'24.JPG",
 				"alt": "life - 27-Hudson, NY '24",
@@ -1004,7 +1015,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-123",
+				"id": "g-124",
 				"src": "/images/portfolio/life-28-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/28.JPG",
 				"alt": "life - 28",
@@ -1014,7 +1025,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-124",
+				"id": "g-125",
 				"src": "/images/portfolio/life-29-chicago-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/29-Chicago%20'25.JPG",
 				"alt": "life - 29-Chicago '25",
@@ -1025,7 +1036,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-125",
+				"id": "g-126",
 				"src": "/images/portfolio/life-30-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/30-California%20'25.JPG",
 				"alt": "life - 30-California '25",
@@ -1036,7 +1047,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-126",
+				"id": "g-127",
 				"src": "/images/portfolio/life-31-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/31-New%20Jersey%20'25.JPG",
 				"alt": "life - 31-New Jersey '25",
@@ -1047,7 +1058,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-127",
+				"id": "g-128",
 				"src": "/images/portfolio/life-32-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/32-California%20'25.JPG",
 				"alt": "life - 32-California '25",
@@ -1058,7 +1069,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-128",
+				"id": "g-129",
 				"src": "/images/portfolio/life-33-new-jersey-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/33-New%20Jersey%20'25.JPG",
 				"alt": "life - 33-New Jersey '25",
@@ -1069,7 +1080,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-129",
+				"id": "g-130",
 				"src": "/images/portfolio/life-35-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/2-LIFE/35-California%20'25.JPG",
 				"alt": "life - 35-California '25",
@@ -1080,7 +1091,7 @@
 				"category": "life"
 			},
 			{
-				"id": "g-130",
+				"id": "g-131",
 				"src": "/images/portfolio/food-1-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/3-FOOD/1.jpg",
 				"alt": "food - 1",
@@ -1090,7 +1101,7 @@
 				"category": "food"
 			},
 			{
-				"id": "g-131",
+				"id": "g-132",
 				"src": "/images/portfolio/food-2-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/3-FOOD/2.jpg",
 				"alt": "food - 2",
@@ -1100,7 +1111,7 @@
 				"category": "food"
 			},
 			{
-				"id": "g-132",
+				"id": "g-133",
 				"src": "/images/portfolio/food-3-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/3-FOOD/3.jpg",
 				"alt": "food - 3",
@@ -1110,7 +1121,7 @@
 				"category": "food"
 			},
 			{
-				"id": "g-133",
+				"id": "g-134",
 				"src": "/images/portfolio/food-4-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/3-FOOD/4.jpg",
 				"alt": "food - 4",
@@ -1120,7 +1131,7 @@
 				"category": "food"
 			},
 			{
-				"id": "g-134",
+				"id": "g-135",
 				"src": "/images/portfolio/food-5-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/3-FOOD/5.jpg",
 				"alt": "food - 5",
@@ -1130,7 +1141,7 @@
 				"category": "food"
 			},
 			{
-				"id": "g-135",
+				"id": "g-136",
 				"src": "/images/portfolio/food-6-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/3-FOOD/6.jpg",
 				"alt": "food - 6",
@@ -1140,7 +1151,7 @@
 				"category": "food"
 			},
 			{
-				"id": "g-136",
+				"id": "g-137",
 				"src": "/images/portfolio/food-7-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/3-FOOD/7.jpg",
 				"alt": "food - 7",
@@ -1150,7 +1161,7 @@
 				"category": "food"
 			},
 			{
-				"id": "g-137",
+				"id": "g-138",
 				"src": "/images/portfolio/self-portrait-1-new-york-26-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/4-SELF%20PORTRAIT/1-New%20York%20'26.jpg",
 				"alt": "self portrait - 1-New York '26",
@@ -1161,7 +1172,7 @@
 				"category": "self portrait"
 			},
 			{
-				"id": "g-138",
+				"id": "g-139",
 				"src": "/images/portfolio/self-portrait-2-new-york-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/4-SELF%20PORTRAIT/2-New%20York%20'25.JPG",
 				"alt": "self portrait - 2-New York '25",
@@ -1172,7 +1183,7 @@
 				"category": "self portrait"
 			},
 			{
-				"id": "g-139",
+				"id": "g-140",
 				"src": "/images/portfolio/self-portrait-3-san-francisco-26-jpeg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/4-SELF%20PORTRAIT/3-San%20Francisco%20'26.JPEG",
 				"alt": "self portrait - 3-San Francisco '26",
@@ -1183,7 +1194,7 @@
 				"category": "self portrait"
 			},
 			{
-				"id": "g-140",
+				"id": "g-141",
 				"src": "/images/portfolio/self-portrait-4-california-25-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/4-SELF%20PORTRAIT/4-California%20'25.JPG",
 				"alt": "self portrait - 4-California '25",
@@ -1194,7 +1205,7 @@
 				"category": "self portrait"
 			},
 			{
-				"id": "g-141",
+				"id": "g-142",
 				"src": "/images/portfolio/self-portrait-5-new-york-26-jpg.jpg",
 				"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/1-PORTFOLIO/4-SELF%20PORTRAIT/5-New%20York%20'26.JPG",
 				"alt": "self portrait - 5-New York '26",
