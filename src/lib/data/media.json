@@ -1,5 +1,5 @@
 {
-	"syncedAt": "2026-11-17T15:42:31.565Z",
+	"syncedAt": "2026-11-18T15:20:46.563Z",
 	"hero": {
 		"src": "/images/hero.jpg",
 		"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/0-HOME/HERO.JPG",
@@ -166,15 +166,6 @@
 			"height": 1192,
 			"kind": "image",
 			"caption": "Chicago '26"
-		},
-		{
-			"src": "/images/grid/grid-16-pittsburgh-25-jpg.jpg",
-			"fullSrc": "https://store.kozturk.com/public.php/dav/files/ffYXDyjq2z4Ycxw/0-HOME/GRID/16-Pittsburgh%20'25.JPG",
-			"alt": "Portfolio preview - 16-Pittsburgh '25",
-			"width": 1067,
-			"height": 1600,
-			"kind": "image",
-			"caption": "Pittsburgh '25"
 		},
 		{
 			"src": "/images/grid/grid-17-new-jersey-25-jpg.jpg",
